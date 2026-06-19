@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/alvinunreal/lazyskills/releases/download/v0.1.1/lazyskills_Windows_x86_64.zip",
+            "bin": [
+                "lazyskills.exe"
+            ],
+            "hash": "f0e69462986ebbce46582f2b0e91491c4e3b50cd2988ac8febccb234d33596b8"
+        },
+        "arm64": {
+            "url": "https://github.com/alvinunreal/lazyskills/releases/download/v0.1.1/lazyskills_Windows_arm64.zip",
+            "bin": [
+                "lazyskills.exe"
+            ],
+            "hash": "b70edfdbdecf4e0ee75a18cad0a3af388fc0b8ef5a817a5e2a598311290b1f7e"
+        }
+    },
+    "homepage": "https://github.com/alvinunreal/lazyskills",
+    "license": "MIT",
+    "description": "Mission control for agent skills to stay lazy."
+}
