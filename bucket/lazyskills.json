@@ -1,19 +1,19 @@
 {
-    "version": "0.3.4",
+    "version": "1.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/alvinunreal/lazyskills/releases/download/v0.3.4/lazyskills_Windows_x86_64.zip",
+            "url": "https://github.com/alvinunreal/lazyskills/releases/download/v1.0.0/lazyskills_Windows_x86_64.zip",
             "bin": [
                 "lazyskills.exe"
             ],
-            "hash": "9d9a8a102c5eae6854d84a97468af594c58280677ce30496b149b6e894d6801b"
+            "hash": "e48e248b07e167a2dc19cb9de1b4e4bc3dc981c749536902cab2b3c8a193eba1"
         },
         "arm64": {
-            "url": "https://github.com/alvinunreal/lazyskills/releases/download/v0.3.4/lazyskills_Windows_arm64.zip",
+            "url": "https://github.com/alvinunreal/lazyskills/releases/download/v1.0.0/lazyskills_Windows_arm64.zip",
             "bin": [
                 "lazyskills.exe"
             ],
-            "hash": "d9f8032ace756e8319dc5ae2cc0a0ef49ba5f2a17a66d530029bfe2c4149ca03"
+            "hash": "68cce5478ff32cad0ef5c214ef2d027b7ce0464025baa766f7eae90eb9bbbbc0"
         }
     },
     "homepage": "https://github.com/alvinunreal/lazyskills",
